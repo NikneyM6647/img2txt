@@ -24,7 +24,8 @@
    ```bash
    pip install -r requirements.txt
 
-## Будущие возможности:                                           1. Будет добавлен нормальный GUI.(и в него все будущие функции связанные с GUI)
+## Будущие возможности: 
+1. Будет добавлен нормальный GUI.(и в него все будущие функции связанные с GUI)
 2.Будет добавлена история изображений и текста, которая будет хранится в отдельной папке с еще двумя папками в которых будут все файлы.
 Все будет выглядеть примерно так:
 img2txt/history/img/001_img.png
@@ -53,12 +54,12 @@ This application allows you to recognize text in images using Tesseract OCR. Eng
 - For macOS:
      ```bash
      brew install tesseract tesseract-lang
-     ```
+     ``
 
 3. Install Python dependencies:
    ```bash
    pip install -r requirements.txt
-
+   `` 
 ## Future opportunities: 
 1. A normal GUI will be added.(and all future GUI-related functions
 will be added to it) 
